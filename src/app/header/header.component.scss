@@ -1,0 +1,91 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+
+.header-container {
+    width: 100%;
+    height: 204px;
+    position: relative;
+  }
+  
+  .header-top, .header-bottom {
+    width: 100%;
+    
+    color:#ffff;
+    text-align: center;
+  }
+  
+  .header-top {
+    height: 38px;
+    
+    
+    background: #CC6A14;
+  }
+  
+  .header-middle {
+    margin: 30px;
+    height: 137px;
+    color: #CC6A14;
+    display: flex;
+    
+    
+  }
+  .profile{
+    width:40px;
+     height:40px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+
+
+  }
+  
+  .logo {
+ 
+    color: #CC6A14;
+    font-size: 40px;
+    font-family: 'Seaweed Script';
+    font-weight: 400;
+    margin-left: 30%;
+    margin-right: 33%;
+  }
+  
+ 
+  
+  .signup-button {
+    
+    border: 1px solid #CC6A14;
+    border-radius: 10px;
+    
+  }
+  
+ 
+  
+  .header-bottom {
+    align-items: center;
+    
+    left: 450px;
+    top: 168px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 104px;
+  }
+  
+  .nav-links {
+    text-align: center;
+    color: #CC6A14;
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    display: flex;
+    
+  }
+  a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: #CC6A14;
+    
+  }
+
+  
+  
